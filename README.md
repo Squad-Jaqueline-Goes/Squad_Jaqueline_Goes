@@ -5,3 +5,4 @@
 - Roberta Oliveira
 - Ludmylla
 - Yasmin Souza Camargo
+- Alice Barbosa Belchior
