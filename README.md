@@ -5,7 +5,7 @@ Bem-vindos ao repositório do nosso squad! Neste repositório encontram-se as at
 ## Integrantes do Squad 👩‍💻
 
 - **Ana Carolyne Pereira De Souza** - [GitHub](https://github.com/anadevti) - [LinkedIn](https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/)
-- **Larissa Albuquerque** - [GitHub](https://github.com/larissaalbuquerque) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/) 
+- **Larissa Albuquerque** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/) 
 - **Roberta Oliveira** - [GitHub](https://github.com/RobertaOliveira07) - [LinkedIn](https://www.linkedin.com/in/roberta-oliveira07/) 
 - **Ludmylla** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/) 
 - **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/) 
