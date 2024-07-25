@@ -37,3 +37,5 @@
 4. Yasmin Souza 
 5. Fernanda Garcia 
 6. Juliana de Jesus 
+
+[Organização no Github Projects ](https://github.com/orgs/Squad-Jaqueline-Goes/projects/4/views/1)
