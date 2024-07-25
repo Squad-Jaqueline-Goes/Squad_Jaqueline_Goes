@@ -28,7 +28,7 @@
 3. Ludmylla Martins 
 4. Larissa de Albuquerque 
 5. Alice Barbosa 
-6. Ana Carolyne ⏳
+6. Ana Carolyne ✅
 
 ## Lista 4 
 1. Fernanda Garcia 
