@@ -8,7 +8,8 @@ Bem-vindos ao repositório do nosso squad! Neste repositório encontram-se as at
 - **Larissa Albuquerque** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/) 
 - **Roberta Oliveira** - [GitHub](https://github.com/RobertaOliveira07) - [LinkedIn](https://www.linkedin.com/in/roberta-oliveira07/) 
 - **Ludmylla** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/) 
-- **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/) 
+- **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/)
+- **Alice Barbosa Belchior** - [GitHub](https://github.com/alicebelchior) - [LinkedIn](https://www.linkedin.com/in/alice-belchior/)
 
 ## Organização do Projeto 🗂️
 
