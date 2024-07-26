@@ -2,14 +2,18 @@
 
 Bem-vindos ao repositório do nosso squad! Neste repositório encontram-se as atividades e Projetos realizados durante o Bootcamp
 
-## Integrantes do Squad 👩‍💻
+## Liderança do Squad 🌟
 
 - **Ana Carolyne Pereira De Souza** - [GitHub](https://github.com/anadevti) - [LinkedIn](https://www.linkedin.com/in/ana-carolyne-pereira-de-souza/)
-- **Larissa Albuquerque** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/) 
-- **Roberta Oliveira** - [GitHub](https://github.com/RobertaOliveira07) - [LinkedIn](https://www.linkedin.com/in/roberta-oliveira07/) 
-- **Ludmylla** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/) 
-- **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/)
+
+## Integrantes do Squad 👩‍💻
+
 - **Alice Barbosa Belchior** - [GitHub](https://github.com/alicebelchior) - [LinkedIn](https://www.linkedin.com/in/alice-belchior/)
+- **Larissa de Albuquerque Santos** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/)
+- **Ludmylla Martins Caetano** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/) 
+- **Fernanda Garcia Barbosa** - [GitHub](https://github.com/NandayGB) - [LinkedIn](https://www.linkedin.com/in/barbosaafernanda/)
+- **Roberta da Silva de Oliveira** - [GitHub](https://github.com/RobertaOliveira07) - [LinkedIn](https://www.linkedin.com/in/roberta-oliveira07/) 
+- **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/)
 
 ## Organização do Projeto 🗂️
 
@@ -20,13 +24,13 @@ Para gerenciar o projeto, utilizamos a seguinte estrutura:
   - **Branch**: `ExerciciosPython_Squad_Jaqueline_Goes` - Para desenvolvimento dos exercicios propostos.
 
 - **Estrutura de Pastas**:
-  - **Pasta `semana-04`**: 
-    - Todos os exercícios e tarefas da semana 4 são armazenados nesta pasta. Cada exercício é colocado em arquivos ou subpastas específicas para melhor organização.
+  - **Pasta `Semana_XX_Exercicios`**: 
+    - Todos os exercícios e tarefas da semana correspondente são armazenados nesta pasta. Cada lista é uma subpasta e cada exercício é um arquivo específico para melhor organização.
 
 ## Divisão de Tarefas 🔄
 
 A divisão das tarefas é realizada por sorteio. 
-- As tarefas da semana 4 estão detalhadas no [documento de divisão de tarefas](https://drive.google.com/file/d/1gL7ac9owKzosbZpl0o6Fpg7lTdNI_z59/view?usp=drive_link).
+- O detalhamento da divisão das tarefas encontra-se dentro da branch que correspondente a semana, no documento: `Separação_das_atividades.md`
 
 ## Reuniões e Comunicação 📅
 
