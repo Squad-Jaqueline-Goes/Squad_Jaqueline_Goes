@@ -1,6 +1,6 @@
 ## Lista 1  
 1. Fernanda Garcia 
-2. Yasmin Souza 
+2. Yasmin Souza ✅ 
 3. Juliana de Jesus 
 4. Ludmylla Martins 
 5. Larissa de Albuquerque 
