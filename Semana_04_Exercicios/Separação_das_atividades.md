@@ -12,7 +12,7 @@
 
 ## Lista 2 
 1. Ana Carolyne ✅
-2. Yasmin Souza 
+2. Yasmin Souza ✅ 
 3. Larissa de Albuquerque 
 4. Fernanda Garcia 
 5. Alice Barbosa 
