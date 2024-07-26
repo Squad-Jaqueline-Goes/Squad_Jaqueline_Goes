@@ -9,9 +9,10 @@ Bem-vindos ao repositório do nosso squad! Neste repositório encontram-se as at
 ## Integrantes do Squad 👩‍💻
 
 - **Alice Barbosa Belchior** - [GitHub](https://github.com/alicebelchior) - [LinkedIn](https://www.linkedin.com/in/alice-belchior/)
-- **Larissa de Albuquerque Santos** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/)
-- **Ludmylla Martins Caetano** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/) 
 - **Fernanda Garcia Barbosa** - [GitHub](https://github.com/NandayGB) - [LinkedIn](https://www.linkedin.com/in/barbosaafernanda/)
+- **Larissa de Albuquerque Santos** - [GitHub](https://github.com/lalbuquerques) - [LinkedIn](https://www.linkedin.com/in/larissa-albuquerque-379b40114/)
+- **Ludmylla Martins Caetano** - [GitHub](https://github.com/ludmyllacaetano) - [LinkedIn](https://www.linkedin.com/in/ludmylla-caetano/)
+- **Juliana de Jesus Portela** - [GitHub](https://github.com/JulianaPortehla) - [LinkedIn](https://www.linkedin.com/in/juliana-portela-a2799a6b/)
 - **Roberta da Silva de Oliveira** - [GitHub](https://github.com/RobertaOliveira07) - [LinkedIn](https://www.linkedin.com/in/roberta-oliveira07/) 
 - **Yasmin Souza Camargo** - [GitHub](https://github.com/Yasmin-Camargo) - [LinkedIn](https://www.linkedin.com/in/yasmin-souza-camargo-4a036b163/)
 
