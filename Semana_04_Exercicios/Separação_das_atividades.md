@@ -17,7 +17,7 @@
 4. Fernanda Garcia 
 5. Alice Barbosa 
 6. Ludmylla Martins 
-7. Yasmin Souza 
+7. Yasmin Souza ✅ 
 8. Fernanda Garcia 
 9. Ludmylla Martins 
 10. Ana Carolyne ✅
