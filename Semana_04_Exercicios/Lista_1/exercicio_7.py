@@ -1,10 +1,13 @@
 '''
-Cálculo de Salário: Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+Solicite ao usuário o peso em kg e a altura em metros. Calcule e
+imprima o Índice de Massa Corporal (IMC) usando a fórmula:
+IMC = peso / (altura x altura).
 '''
 
-# multiplicando o valor ganho por hora pelo número de horas trabalhadas no mês.
+# entrada de dados
+peso = float(input("Digite seu peso em kg: "))
+altura = float(input("Digite sua altura em metros: "))
 
-salario_hora = float(input('Quanto você ganha por hora? : '))
-horas_trabalhadas = float(input('O Quanto de horas trabalhadas você faz? : '))
-valor = salario_hora * horas_trabalhadas
-print(f'O seu salario referido do mês é: {valor:.2f}')
+# saida de dados (IMC do ususario)
+imc = peso / (altura * altura)
+print(f"Seu IMC é de {imc:.2f}")
