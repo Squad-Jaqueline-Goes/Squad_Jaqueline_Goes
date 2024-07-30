@@ -6,7 +6,7 @@
 5. Larissa de Albuquerque 
 6. Roberta da Silva 
 7. Ana Carolyne ✅
-8. Alice Barbosa 
+8. Alice Barbosa ✅
 9. Roberta da Silva 
 10. Juliana de Jesus
 
@@ -16,7 +16,7 @@
 3. Larissa de Albuquerque 
 4. Fernanda Garcia 
 5. Alice Barbosa 
-6. Ludmylla Martins ✅ 
+6. Ludmylla Martins 
 7. Yasmin Souza ✅ 
 8. Fernanda Garcia 
 9. Ludmylla Martins ✅ 
@@ -27,7 +27,7 @@
 2. Larissa de Albuquerque 
 3. Ludmylla Martins 
 4. Larissa de Albuquerque 
-5. Alice Barbosa 
+5. Alice Barbosa ✅
 6. Ana Carolyne ✅
 
 ## Lista 4 
