@@ -1,14 +1,14 @@
 ## Lista 1  
 1. Fernanda Garcia 
 2. Yasmin Souza ✅ 
-3. Juliana de Jesus 
+3. Juliana de Jesus ✅ 
 4. Ludmylla Martins ✅ 
 5. Larissa de Albuquerque 
 6. Roberta da Silva 
 7. Ana Carolyne ✅
 8. Alice Barbosa ✅
 9. Roberta da Silva 
-10. Juliana de Jesus
+10. Juliana de Jesus ✅ 
 
 ## Lista 2 
 1. Ana Carolyne ✅
