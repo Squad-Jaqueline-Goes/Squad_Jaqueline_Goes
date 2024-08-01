@@ -23,7 +23,7 @@
 10. Ana Carolyne ✅
 
 ## Lista 3 
-1. Alice Barbosa 
+1. Alice Barbosa ✅
 2. Larissa de Albuquerque 
 3. Ludmylla Martins ✅
 4. Larissa de Albuquerque 
