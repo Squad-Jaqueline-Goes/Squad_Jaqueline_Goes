@@ -1,5 +1,4 @@
 '''
-Faça um Programa que peça as quatro notas de 5 alunos, calcule
-e armazene numa lista a média de cada aluno, imprima o número
-de alunos com média maior ou igual a 7.0.
+Reverso do número. Faça uma função que retorne o reverso de um
+número inteiro informado. Por exemplo: 127 -> 721.
 '''
