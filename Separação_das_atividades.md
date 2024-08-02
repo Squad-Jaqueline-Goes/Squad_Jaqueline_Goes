@@ -1,4 +1,5 @@
 ## Lista 1  
+## Exercicios:
 1. Fernanda Garcia 
 2. Yasmin Souza ✅ 
 3. Juliana de Jesus 
@@ -11,6 +12,7 @@
 10. Juliana de Jesus
 
 ## Lista 2 
+## Exercicios:
 1. Ana Carolyne ✅
 2. Yasmin Souza ✅ 
 3. Larissa de Albuquerque 
@@ -23,6 +25,7 @@
 10. Ana Carolyne ✅
 
 ## Lista 3 
+## Exercicios:
 1. Alice Barbosa 
 2. Larissa de Albuquerque 
 3. Ludmylla Martins 
@@ -31,6 +34,7 @@
 6. Ana Carolyne ✅
 
 ## Lista 4 
+## Exercicios:
 1. Fernanda Garcia 
 2. Roberta da Silva 
 3. Juliana de Jesus 
