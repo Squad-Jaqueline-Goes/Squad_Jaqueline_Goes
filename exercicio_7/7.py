@@ -1,5 +1,4 @@
 '''
-Solicite ao usuário o peso em kg e a altura em metros. Calcule e
-imprima o Índice de Massa Corporal (IMC) usando a fórmula:
-IMC = peso / (altura x altura).
+Desenvolver um programa que solicite a idade do usuário e identifique se
+ele é uma criança, um adolescente, adulto ou idoso.
 '''

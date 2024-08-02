@@ -1,6 +1,5 @@
 '''
-Faça um Programa que pergunte quanto você ganha por hora e o
-número de horas trabalhadas no mês.Calcule e mostre o total do seu
-salário no referido mês.
-
+Criar um programa em Python que solicite três números ao usuário, utilize
+estruturas condicionais para determinar o maior entre eles e apresente o
+resultado.
 '''
