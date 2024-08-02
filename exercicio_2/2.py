@@ -1,5 +1,5 @@
 '''
-Faça um Programa que pergunte em que turno você estuda. Peça para
-digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom
-Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+Faça um Programa que peça as quatro notas de 5 alunos, calcule
+e armazene numa lista a média de cada aluno, imprima o número
+de alunos com média maior ou igual a 7.0.
 '''
