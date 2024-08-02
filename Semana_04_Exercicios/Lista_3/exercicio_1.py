@@ -20,7 +20,4 @@ lista_perguntas = ["Telefonou para a vítima? ",
           "Devia para a vítima? ", 
           "Já trabalhou com a vítima? "]
 
-resp = input("Digite 'sim' ou 'nao' para as perguntas a seguir: ")
 for perguntas in lista_perguntas:
-          print(perguntas)
-          # 
