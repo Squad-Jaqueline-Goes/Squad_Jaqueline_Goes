@@ -1,4 +1,4 @@
-## Lista 1  
+## Desafio 1  
 1. Fernanda Garcia 
 2. Yasmin Souza ✅ 
 3. Juliana de Jesus 
@@ -10,7 +10,7 @@
 9. Roberta da Silva 
 10. Juliana de Jesus
 
-## Lista 2 
+## Desafio 2 
 1. Ana Carolyne ✅
 2. Yasmin Souza ✅ 
 3. Larissa de Albuquerque 
@@ -22,7 +22,7 @@
 9. Ludmylla Martins ✅ 
 10. Ana Carolyne ✅
 
-## Lista 3 
+## Desafio 3 
 1. Alice Barbosa 
 2. Larissa de Albuquerque 
 3. Ludmylla Martins 
@@ -30,7 +30,7 @@
 5. Alice Barbosa ✅
 6. Ana Carolyne ✅
 
-## Lista 4 
+## Desafio 4 
 1. Fernanda Garcia 
 2. Roberta da Silva 
 3. Juliana de Jesus 
