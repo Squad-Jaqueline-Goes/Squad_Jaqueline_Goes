@@ -32,7 +32,7 @@
 
 ## Lista 4 
 1. Fernanda Garcia 
-2. Roberta da Silva 
+2. Roberta da Silva ✅
 3. Juliana de Jesus 
 4. Yasmin Souza ✅  
 5. Fernanda Garcia 
