@@ -2,7 +2,7 @@
 Calcule o total de calorias queimadas em um mês, 
 considerando uma média de 5 calorias por minuto de exercício.
 '''
-# Função para calcular o total de calorias queimadas em um mês
+
 def calcular_calorias_por_mes(horas_por_semana):
     calorias_por_minuto = 5
     minutos_por_hora = 60
@@ -25,5 +25,5 @@ horas_por_semana = float(input("Digite o número de horas de exercício físico 
 # Calcular o total de calorias queimadas em um mês
 total_calorias = calcular_calorias_por_mes(horas_por_semana)
 
-# Exibir o resultado
+
 print(f"Total de calorias queimadas em um mês: {total_calorias:.2f} calorias")
