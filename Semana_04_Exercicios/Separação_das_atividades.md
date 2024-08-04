@@ -4,10 +4,10 @@
 3. Juliana de Jesus ✅ 
 4. Ludmylla Martins ✅ 
 5. Larissa de Albuquerque 
-6. Roberta da Silva 
+6. Roberta da Silva ✅ 
 7. Ana Carolyne ✅
 8. Alice Barbosa ✅
-9. Roberta da Silva 
+9. Roberta da Silva ✅ 
 10. Juliana de Jesus ✅ 
 
 ## Lista 2 
