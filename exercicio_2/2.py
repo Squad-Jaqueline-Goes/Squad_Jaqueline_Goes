@@ -1,4 +1,5 @@
 '''
+<<<<<<< HEAD
 Faça um Programa que peça as quatro notas de 5 alunos, calcule
 e armazene numa lista a média de cada aluno, imprima o número
 de alunos com média maior ou igual a 7.0.
@@ -22,3 +23,23 @@ for i in medias:
     media7 += 1
 
 print(f'O número de alunos com média maior ou igual a 7.0 é: {media7}')
+=======
+Faça um Programa que pergunte em que turno você estuda. Peça para
+digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom
+Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+'''
+
+entrada = str(input('Em qual turno você estuda?: '))
+
+if entrada == 'M':
+    print('Bom dia!')
+
+elif entrada == 'V':
+    print('Boa Tarde!')
+
+elif entrada == 'N':
+    print('Boa Noite!')
+
+else:
+    print('Invalido!')
+>>>>>>> main
