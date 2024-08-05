@@ -8,15 +8,14 @@ escaleno: todos os lados com medidas distintas.
 
 '''
 
-lado1 = int(input('Informe o comprimento do primeiro lado do trinângulo: '))
-lado2 = int(input('Informe o comprimento do segundo lado do trinângulo: '))
-lado3 = int(input('Informe o comprimento do terceiro lado do trinângulo: '))
+# entrada de dados
+a = int(input("Digite o comprimento do lado A do triângulo: "))
+b = int(input("Digite o comprimento do lado B do triângulo: "))
+c = int(input("Digite o comprimento do lado C do triângulo: "))
 
-if lado1 == lado2 == lado3:
-  print('Equilátero. Todos os lados são iguais.')
-
-elif lado1 == lado2 != lado3:
-  print('Isósceles. Um dos lados é diferente.')
-
+if ((a == b) and (b == c)):
+          print("O triângulo digitado é EQUILÁTERO")
+elif ((a == b) or (a == c) or (b == c)):
+          print("O triângulo digitado é ISÓSCELES")
 else:
-  print('Escaleno. Todos os lados são diferentes.')
+          print("O triângulo digitado é ESCALENO")
