@@ -1,9 +1,6 @@
 '''
-Escreva um programa que calcule o tempo de uma viagem. Faça um
-comparativo do mesmo percurso de avião, carro e ônibus.
-Levando em consideração:
-● avião = 600 km/h
-● carro = 100 km/h
-● ônibus = 80 km/h
+Crie um programa que solicite ao usuário um login e uma senha. O
+programa deve permitir o acesso apenas se o usuário for "admin" e a senha
+for "admin123", caso contrário imprima uma mensagem de erro.
 
 '''
