@@ -1,6 +1,11 @@
 '''
-Crie um programa que solicite ao usuário um login e uma senha. O
-programa deve permitir o acesso apenas se o usuário for "admin" e a senha
-for "admin123", caso contrário imprima uma mensagem de erro.
-
+Faça um programa que permita ao usuário digitar o seu nome e
+em seguida mostre o nome do usuário de trás para frente
+utilizando somente letras maiúsculas. Dica: lembre−se que ao
+informar o nome o usuário pode digitar letras maiúsculas ou
+minúsculas.
 '''
+
+nome = str (input('Digite seu nome: '))
+maiusc = nome.upper()[::-1]
+print(maiusc)

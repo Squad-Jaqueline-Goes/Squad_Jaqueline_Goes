@@ -1,5 +1,19 @@
 '''
 <<<<<<< HEAD
+5. Crie duas tuplas. Concatene-as para formar uma nova tupla.
+'''
+
+# criação das tuplas
+tupla1 = ("um", "dois", "três")
+tupla2 = ("somos", "trigêmeas", "sim")
+
+# concatenação das tuplas
+tupla3 = tupla1 + tupla2
+
+#saida de dados
+print(f"Os primeiros versos da abertura de 'As trigêmeas' têm as seguintes palavras:\n{tupla3}")
+=======
+<<<<<<< HEAD
 Desenvolva um programa que solicite ao usuário os comprimentos dos três
 lados de um triângulo e classifique-o como equilátero, isósceles ou escaleno.
 equilátero: todos os lados com o mesmo valor
@@ -60,3 +74,4 @@ else:
   salarioLiquido = salarioBruto - aliquota
   print(f'A alíquota do Imposto de Renda é 27,5%. O salário líquido é R$ {salarioLiquido}.')
 >>>>>>> a4500e2f5ad032ad0cdfbc63c5f5c5ec1388d01a
+>>>>>>> main
