@@ -9,7 +9,6 @@ def reverso_numero(numero):
     # Reverter a string
     numero_reverso_str = numero_str[::-1]
     
-    # Converter a string revertida de volta para inteiro
     numero_reverso = int(numero_reverso_str)
     
     return numero_reverso
