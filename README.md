@@ -22,16 +22,17 @@ Para gerenciar o projeto, utilizamos a seguinte estrutura:
 
 - **Branches**: 
   - **Branch Principal**: `main` 
-  - **Branch**: `ExerciciosPython_Squad_Jaqueline_Goes` - Para desenvolvimento dos exercicios propostos.
+  - **Branch para cada desafio**: `[NomeDesafio]_Squad_Jaqueline_Goes` - Para desenvolvimento dos exercicios propostos.
 
 - **Estrutura de Pastas**:
-  - **Pasta `Semana_XX_Exercicios`**: 
-    - Todos os exercícios e tarefas da semana correspondente são armazenados nesta pasta. Cada lista é uma subpasta e cada exercício é um arquivo específico para melhor organização.
+  - **Pasta `Exercicio_XX`**: 
+    - Para cada exercício existe uma pasta, contendo dentro dela o arquivo Python com a resolução correspondente.
 
 ## Divisão de Tarefas 🔄
 
-A divisão das tarefas é realizada por sorteio. 
-- O detalhamento da divisão das tarefas encontra-se dentro da branch que correspondente a semana, no documento: `Separação_das_atividades.md`
+A divisão das tarefas foi realizada por sorteio, sendo distribuída de maneira uniforme.
+- O detalhamento da divisão das tarefas encontra-se no documento: `Separação_das_atividades.md`
+- Os exercícios são enviados às branches correspondentes via pull request, garantindo a revisão e integração das soluções.
 
 ## Reuniões e Comunicação 📅
 
