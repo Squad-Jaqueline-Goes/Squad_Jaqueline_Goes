@@ -1,5 +1,7 @@
-# 9 Solicite ao usuário o número de horas de exercício físico por semana.Calcule o total de calorias queimadas em um mês, considerando uma média de 5 calorias por minuto de exercício.
-
+'''Solicite ao usuário o número de horas de exercício físico por semana.
+Calcule o total de calorias queimadas em um mês, 
+considerando uma média de 5 calorias por minuto de exercício.
+'''
 # Função para calcular o total de calorias queimadas em um mês
 def calcular_calorias_por_mes(horas_por_semana):
     calorias_por_minuto = 5
